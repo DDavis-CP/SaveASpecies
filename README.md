@@ -13,11 +13,13 @@ Carnivore
 Herbivore
 Omnivore
 
-3. Animal Type Page then will display all of the animals that are in the category you've picked that we have sources for
+3. Animal Type Page then will display all of the animals that are in the category you've picked that we have sources for.
 
-4. Animal Species Page will display the species of the animal you have picked along with a url launch to the website of a organization that aids that species.
+4. Animal Species Page will display the species of the animal you have picked along with a url launch to the animal sources page that has a list of the organizations that aid that species.
 
-5. The Search Page is an option to find out if the animal or species you're looking for is avaliable on the website.
+5. Animal Sources page has a list of names of organizations with the link to launch their site to so you can start to be proactive in the help to fight for animals who can't defend themselves in a human dominant world.
+
+6. The Search Page is an option to find out if the animal or species you're looking for is avaliable on the website.
 
 ## How to run the program 
 
