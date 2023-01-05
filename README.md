@@ -1,5 +1,6 @@
 # SaveASpecies
-![](https://j.gifs.com/W72OxE.gif)
+
+![](https://thumbs.gfycat.com/ImpeccableWeeklyHornedviper-size_restricted.gif)
 Django/Python Website that gives users credible organization sources that they can donate to save a species they feel passionate about.
 
 ** Use Case: Allows animal donors and animal activist to connect with multiple foundations/organizations on a platform that sets a aunthentic, and quality foundation. **
@@ -9,9 +10,9 @@ Django/Python Website that gives users credible organization sources that they c
 1. You are on the landing page that has an intro video about what the website is about along with background on the developer and where the idea came from
 
 2. You are on the home page with the option to choose by clicking on what type of animal you're interesting in helping from the following choices-
-Carnivore
-Herbivore
-Omnivore
+   Carnivore
+   Herbivore
+   Omnivore
 
 3. Animal Type Page then will display all of the animals that are in the category you've picked that we have sources for.
 
@@ -21,9 +22,10 @@ Omnivore
 
 6. The Search Page is an option to find out if the animal or species you're looking for is avaliable on the website.
 
-## How to run the program 
+## How to run the program
 
 ## FOLLOW THIS QUICK TECHNICAL SET-UP SO YOU CAN START USING IT:
+
 1.CREATE AND RUN A VIRTUAL ENVIRONMENT USING VENV:
 A) first: mkdir [name of your directory]
 
