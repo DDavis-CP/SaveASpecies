@@ -1,8 +1,12 @@
+/* Permanent font imported from google fonts */
 @import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
-
+/* Banger font imported from google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
 h1 {
     font-family: 'Permanent Marker', cursive;
-
+}
+h3{
+    font-family: 'Bangers', cursive;
 }
 
 .home{
@@ -14,4 +18,9 @@ h1 {
 .title{
     transform: translate(3.5rem,-5rem);
     font-size: larger;
+}
+
+.subheading{
+    transform: translate(35rem,5rem);
+    font-size: large;
 }
