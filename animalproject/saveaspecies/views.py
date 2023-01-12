@@ -13,3 +13,19 @@ class Homeview(View):
 class Landingview(View):
     def get(self, request):
         return render( request=request , template_name = "saveaspecies/landing_page.html", context = {})
+
+class Animalspeciesview(View):
+    def get(self, request):
+        return render( request=request , template_name = "saveaspecies/animal_species_page.html", context = {})
+
+class Animaltypeview(View):
+    def get(self, request):
+        return render( request=request , template_name = "saveaspecies/animal_type_page.html", context = {})
+
+class Searchview(View):
+    def get(self, request):
+        return render( request=request , template_name = "saveaspecies/search_page.html", context = {})
+
+class Sourceview(View):
+    def get(self, request):
+        return render( request=request , template_name = "saveaspecies/source_page.html", context = {})
