@@ -31,7 +31,7 @@ A) first: mkdir [name of your directory]
 
 B) second: [name of your directory]
 
-C) then: clone into directory: https://github.com/Shawner1/NYC-Guide.git
+C) then: clone into directory: [https://github.com/](https://github.com/DDavis-CP/SaveASpecies/
 
 D) next: python -m venv django-env (or python3 -m venv django-env)
 
